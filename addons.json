@@ -1,10 +1,10 @@
 {
   "esquema": 1,
   "id": "defecto",
-  "nombre": "Lista",
-  "descripcion": "Lista base.",
+  "nombre": "Lista por defecto",
+  "descripcion": "Lista por defecto.",
   "autor": "Forja",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "actualizado": "2026-11-23",
   "categorias": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "plugin.video.balandro",
       "nombre": "Balandro",
-      "descripcion": "Navegador de páginas web de películas y series en español, con buscador y gestión de enlaces.",
+      "descripcion": "Películas y series en español.",
       "autor": "Team Balandro",
       "version": "4.0.34",
       "categoria": "video",
@@ -41,7 +41,7 @@
     {
       "id": "plugin.video.alfa",
       "nombre": "Alfa",
-      "descripcion": "Uno de los addons de películas y series en español más veteranos, sucesor de Pelisalacarta.",
+      "descripcion": "Películas y series en español.",
       "autor": "Alfa Addon",
       "version": "3.12.4",
       "categoria": "video",
@@ -64,7 +64,7 @@
     {
       "id": "plugin.video.blackghost",
       "nombre": "BlackGhost",
-      "descripcion": "Películas, series y televisión. Se instala desde el repositorio de BlackGhost (addonbg.co).",
+      "descripcion": "Películas, series y televisión. Su repositorio usa http: Forja no puede comprobar sus actualizaciones.",
       "autor": "BlackGhost",
       "categoria": "video",
       "tipo": "kodi",
@@ -83,7 +83,7 @@
     {
       "id": "plugin.video.Magellan_Matrix",
       "nombre": "Magellan",
-      "descripcion": "Películas, series, música y televisión en un solo addon (versión para Kodi 19 y posteriores).",
+      "descripcion": "Películas, series, música y televisión.",
       "autor": "Magellan",
       "version": "3.0.0",
       "categoria": "video",
@@ -105,7 +105,7 @@
     {
       "id": "plugin.video.espatv",
       "nombre": "EspaTV",
-      "descripcion": "Televisión y radio en directo, películas, series, deportes y música en castellano.",
+      "descripcion": "Televisión y radio en directo, películas, series, deportes y música.",
       "autor": "RubénSDFA1laberot",
       "version": "5.0.1",
       "categoria": "tv",
@@ -127,7 +127,7 @@
     {
       "id": "plugin.video.vavooto",
       "nombre": "Vavoo Live 2",
-      "descripcion": "Televisión en directo, además de películas y series.",
+      "descripcion": "Televisión en directo.",
       "autor": "mr-evil1",
       "version": "2026.11.10",
       "categoria": "tv",
