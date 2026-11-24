@@ -4,8 +4,7 @@
   "nombre": "Lista por defecto",
   "descripcion": "Lista por defecto.",
   "autor": "Forja",
-  "version": "1.2.3",
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "categorias": [
     {
       "id": "video",
@@ -22,7 +21,6 @@
       "nombre": "Balandro",
       "descripcion": "Películas y series en español.",
       "autor": "Team Balandro",
-      "version": "4.0.34",
       "categoria": "video",
       "tipo": "kodi",
       "etiquetas": [
@@ -34,8 +32,7 @@
       "web": "https://github.com/repobal/base",
       "repositorio": {
         "id": "repository.balandro",
-        "zip": "https://raw.githubusercontent.com/repobal/base/main/repository.balandro-4.0.1.zip",
-        "sha256": "9f90669a314ea46c63851b3ecd0f3ac4b55f1f94c6bd5088c22676ff63c75ac5"
+        "zip": "https://raw.githubusercontent.com/repobal/base/main/repository.balandro-4.0.1.zip"
       }
     },
     {
@@ -43,11 +40,9 @@
       "nombre": "Alfa",
       "descripcion": "Películas y series en español.",
       "autor": "Alfa Addon",
-      "version": "3.12.4",
       "categoria": "video",
       "tipo": "zip",
-      "zip": "https://raw.githubusercontent.com/alfa-addon/alfa-repo/main/plugin.video.alfa/plugin.video.alfa-3.12.4.zip",
-      "sha256": "3cf0055ec9e3367a4bdd586524509ac52283c19edf5830ad04537ead9cb22969",
+      "zip": "https://raw.githubusercontent.com/alfa-addon/alfa-repo/main/plugin.video.alfa/plugin.video.alfa-{version}.zip",
       "etiquetas": [
         "peliculas",
         "series"
@@ -57,14 +52,14 @@
       "web": "https://github.com/alfa-addon/addon",
       "repositorio": {
         "id": "repository.alfa-addon",
-        "zip": "https://raw.githubusercontent.com/alfa-addon/alfa-repo/main/repository.alfa-addon/repository.alfa-addon-1.0.8.zip",
-        "sha256": "c94aef019b5b2232ff10ecce703af2931a43d7cdf55bd0277262da7b7cda47e4"
-      }
+        "zip": "https://raw.githubusercontent.com/alfa-addon/alfa-repo/main/repository.alfa-addon/repository.alfa-addon-1.0.8.zip"
+      },
+      "addon_xml": "https://raw.githubusercontent.com/alfa-addon/alfa-repo/main/addons.xml"
     },
     {
       "id": "plugin.video.blackghost",
       "nombre": "BlackGhost",
-      "descripcion": "Películas, series y televisión. Su repositorio usa http: Forja no puede comprobar sus actualizaciones.",
+      "descripcion": "Películas, series y televisión.",
       "autor": "BlackGhost",
       "categoria": "video",
       "tipo": "kodi",
@@ -76,8 +71,7 @@
       "web": "https://github.com/bluegray25/bluegray25.github.io",
       "repositorio": {
         "id": "repository.theblackghost",
-        "zip": "https://raw.githubusercontent.com/bluegray25/bluegray25.github.io/main/repository.theblackghost-0.0.9.zip",
-        "sha256": "30817eb2a82170261a093e64c61b91c8320558973c658aa206b1dd9414a4588b"
+        "zip": "https://raw.githubusercontent.com/bluegray25/bluegray25.github.io/main/repository.theblackghost-0.0.9.zip"
       }
     },
     {
@@ -85,7 +79,6 @@
       "nombre": "Magellan",
       "descripcion": "Películas, series, música y televisión.",
       "autor": "Magellan",
-      "version": "3.0.0",
       "categoria": "video",
       "tipo": "kodi",
       "etiquetas": [
@@ -107,11 +100,9 @@
       "nombre": "EspaTV",
       "descripcion": "Televisión y radio en directo, películas, series, deportes y música.",
       "autor": "RubénSDFA1laberot",
-      "version": "5.0.1",
       "categoria": "tv",
       "tipo": "zip",
-      "zip": "https://raw.githubusercontent.com/espakodi/espatv/main/plugin.video.espatv/plugin.video.espatv-5.0.1.zip",
-      "sha256": "7a56e6b0376d7e9e40ac670484d69e402e17818c7c1f94b8588895aba94e1c70",
+      "zip": "https://raw.githubusercontent.com/espakodi/espatv/main/plugin.video.espatv/plugin.video.espatv-{version}.zip",
       "etiquetas": [
         "tv",
         "radio",
@@ -122,14 +113,14 @@
       ],
       "icono": "https://raw.githubusercontent.com/espakodi/espatv/main/plugin.video.espatv/icon.png",
       "fanart": "https://raw.githubusercontent.com/espakodi/espatv/main/plugin.video.espatv/fanart.jpg",
-      "web": "https://github.com/espakodi/espatv"
+      "web": "https://github.com/espakodi/espatv",
+      "addon_xml": "https://raw.githubusercontent.com/espakodi/espatv/main/plugin.video.espatv/addon.xml"
     },
     {
       "id": "plugin.video.vavooto",
       "nombre": "Vavoo Live 2",
       "descripcion": "Televisión en directo.",
       "autor": "mr-evil1",
-      "version": "2026.11.10",
       "categoria": "tv",
       "tipo": "kodi",
       "etiquetas": [
@@ -141,8 +132,7 @@
       "web": "https://github.com/mr-evil1/kodi-media-repo/tree/main/plugin.video.vavooto",
       "repositorio": {
         "id": "repository.kodi.media",
-        "zip": "https://raw.githubusercontent.com/mr-evil1/kodi-media-repo/main/repository.kodi.media/repository.kodi.media-1.0.0.zip",
-        "sha256": "a44349846b33ee46bdda253f4f9d355353807f4947b016ab7ee473b00983d7d5"
+        "zip": "https://raw.githubusercontent.com/mr-evil1/kodi-media-repo/main/repository.kodi.media/repository.kodi.media-1.0.0.zip"
       }
     }
   ],
