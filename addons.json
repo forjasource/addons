@@ -13,6 +13,10 @@
     {
       "id": "tv",
       "nombre": "Televisión y radio"
+    },
+    {
+      "id": "utilidades",
+      "nombre": "Utilidades y módulos"
     }
   ],
   "addons": [
@@ -132,6 +136,26 @@
       "repositorio": {
         "id": "repository.kodi.media",
         "zip": "https://raw.githubusercontent.com/mr-evil1/kodi-media-repo/main/repository.kodi.media/repository.kodi.media-1.0.0.zip"
+      }
+    },
+    {
+      "id": "script.module.resolveurl",
+      "nombre": "ResolveURL",
+      "descripcion": "Resuelve los enlaces de vídeo de muchos servidores. Lo necesitan muchos addons.",
+      "autor": "Gujal",
+      "categoria": "utilidades",
+      "tipo": "kodi",
+      "etiquetas": [
+        "modulo",
+        "enlaces",
+        "resolver"
+      ],
+      "icono": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/script.module.resolveurl/icon.png",
+      "web": "https://github.com/Gujal00/ResolveURL",
+      "repositorio": {
+        "id": "repository.gujal",
+        "zip": "https://michaz1988.github.io/repo/repository.gujal/repository.gujal-{version}.zip",
+        "addon_xml": "https://michaz1988.github.io/repo/repository.gujal/addon.xml"
       }
     }
   ],
