@@ -41,8 +41,7 @@
       "descripcion": "Películas y series en español.",
       "autor": "Alfa Addon",
       "categoria": "video",
-      "tipo": "zip",
-      "zip": "https://raw.githubusercontent.com/alfa-addon/alfa-repo/main/plugin.video.alfa/plugin.video.alfa-{version}.zip",
+      "tipo": "alfa",
       "etiquetas": [
         "peliculas",
         "series"
@@ -52,9 +51,9 @@
       "web": "https://github.com/alfa-addon/addon",
       "repositorio": {
         "id": "repository.alfa-addon",
-        "zip": "https://raw.githubusercontent.com/alfa-addon/alfa-repo/main/repository.alfa-addon/repository.alfa-addon-1.0.8.zip"
+        "zip": "https://alfa-addon.com/alfa/repository.alfa-addon.zip"
       },
-      "addon_xml": "https://raw.githubusercontent.com/alfa-addon/alfa-repo/main/addons.xml"
+      "addon_xml": "https://raw.githubusercontent.com/alfa-addon/addon/refs/heads/main/plugin.video.alfa/addon.xml"
     },
     {
       "id": "plugin.video.blackghost",
