@@ -116,7 +116,7 @@
       "addon_xml": "https://raw.githubusercontent.com/espakodi/espatv/main/plugin.video.espatv/addon.xml"
     },
     {
-      "id": "plugin.video.vavooto",
+      "id": "plugin.video.vav",
       "nombre": "Vavoo Live 2",
       "descripcion": "Televisión en directo.",
       "autor": "mr-evil1",
@@ -126,9 +126,9 @@
         "tv",
         "directo"
       ],
-      "icono": "https://raw.githubusercontent.com/mr-evil1/kodi-media-repo/main/plugin.video.vavooto/icon.png",
-      "fanart": "https://raw.githubusercontent.com/mr-evil1/kodi-media-repo/main/plugin.video.vavooto/fanart.jpg",
-      "web": "https://github.com/mr-evil1/kodi-media-repo/tree/main/plugin.video.vavooto",
+      "icono": "https://raw.githubusercontent.com/mr-evil1/kodi-media-repo/main/plugin.video.vav/icon.png",
+      "fanart": "https://raw.githubusercontent.com/mr-evil1/kodi-media-repo/main/plugin.video.vav/fanart.jpg",
+      "web": "https://github.com/mr-evil1/kodi-media-repo/tree/main/plugin.video.vav",
       "repositorio": {
         "id": "repository.kodi.media",
         "zip": "https://raw.githubusercontent.com/mr-evil1/kodi-media-repo/main/repository.kodi.media/repository.kodi.media-1.0.0.zip"
