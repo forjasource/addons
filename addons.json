@@ -171,7 +171,7 @@
         "peliculas",
         "series"
       ],
-      "icono": "https://raw.githubusercontent.com/fmono90/vaquexflix-addon/refs/heads/main/plugin.video.vaquexflix/icon-{version}.png",
+      "icono": "https://github.com/fmono90/vaquexflix-addon/blob/main/plugin.video.vaquexflix/icon-1.2.0.png?raw=true",
       "fanart": "https://raw.githubusercontent.com/fmono90/vaquexflix-addon/refs/heads/main/plugin.video.vaquexflix/fanart.jpg",
       "web": "https://github.com/fmono90/vaquexflix-addon",
       "addon_xml": "https://raw.githubusercontent.com/fmono90/vaquexflix-addon/refs/heads/main/plugin.video.vaquexflix/addon.xml"
