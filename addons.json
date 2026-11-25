@@ -36,7 +36,7 @@
       "web": "https://github.com/repobal/base",
       "repositorio": {
         "id": "repository.balandro",
-        "zip": "https://raw.githubusercontent.com/repobal/base/main/repository.balandro-4.0.1.zip"
+        "zip": "https://raw.githubusercontent.com/repobal/base/main/repository.balandro-{version}.zip"
       }
     },
     {
@@ -74,7 +74,7 @@
       "web": "https://github.com/bluegray25/bluegray25.github.io",
       "repositorio": {
         "id": "repository.theblackghost",
-        "zip": "https://raw.githubusercontent.com/bluegray25/bluegray25.github.io/main/repository.theblackghost-0.0.9.zip"
+        "zip": "https://raw.githubusercontent.com/bluegray25/bluegray25.github.io/main/repository.theblackghost-{version}.zip"
       }
     },
     {
@@ -135,7 +135,7 @@
       "web": "https://github.com/mr-evil1/kodi-media-repo/tree/main/plugin.video.vav",
       "repositorio": {
         "id": "repository.kodi.media",
-        "zip": "https://raw.githubusercontent.com/mr-evil1/kodi-media-repo/main/repository.kodi.media/repository.kodi.media-1.0.0.zip"
+        "zip": "https://raw.githubusercontent.com/mr-evil1/kodi-media-repo/main/repository.kodi.media/repository.kodi.media-{version}.zip"
       }
     },
     {
@@ -171,7 +171,7 @@
         "peliculas",
         "series"
       ],
-      "icono": "https://raw.githubusercontent.com/fmono90/vaquexflix-addon/refs/heads/main/plugin.video.vaquexflix/icon-1.2.0.png",
+      "icono": "https://raw.githubusercontent.com/fmono90/vaquexflix-addon/refs/heads/main/plugin.video.vaquexflix/icon-{version}.png",
       "fanart": "https://raw.githubusercontent.com/fmono90/vaquexflix-addon/refs/heads/main/plugin.video.vaquexflix/fanart.jpg",
       "web": "https://github.com/fmono90/vaquexflix-addon",
       "addon_xml": "https://raw.githubusercontent.com/fmono90/vaquexflix-addon/refs/heads/main/plugin.video.vaquexflix/addon.xml"
