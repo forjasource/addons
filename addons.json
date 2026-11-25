@@ -157,6 +157,24 @@
         "zip": "https://michaz1988.github.io/repo/repository.gujal/repository.gujal-{version}.zip",
         "addon_xml": "https://michaz1988.github.io/repo/repository.gujal/addon.xml"
       }
+    },
+    {
+      "id": "plugin.video.vaquexflix",
+      "nombre": "Vaquexflix",
+      "descripcion": "Vaquexflix es un complemento de streaming multimedia diseñado en Python con una interfaz nativa (WindowXML) optimizada para brindar una experiencia visual de catálogo cinematográfico.",
+      "autor": "fmono90, latinboykodi, latinokodi",
+      "categoria": "video",
+      "tipo": "zip",
+      "zip": "https://raw.githubusercontent.com/fmono90/vaquexflix-addon/refs/heads/main/plugin.video.vaquexflix-{version}.zip",
+      "etiquetas": [
+        "tv",
+        "peliculas",
+        "series"
+      ],
+      "icono": "https://raw.githubusercontent.com/fmono90/vaquexflix-addon/refs/heads/main/plugin.video.vaquexflix/icon-1.2.0.png",
+      "fanart": "https://raw.githubusercontent.com/fmono90/vaquexflix-addon/refs/heads/main/plugin.video.vaquexflix/fanart.jpg",
+      "web": "https://github.com/fmono90/vaquexflix-addon",
+      "addon_xml": "https://raw.githubusercontent.com/fmono90/vaquexflix-addon/refs/heads/main/plugin.video.vaquexflix/addon.xml"
     }
   ],
   "packs": []
